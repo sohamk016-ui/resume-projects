@@ -1,0 +1,25 @@
+text,label
+"Urgent action required: verify your account password to prevent suspension.",phishing
+"Your mailbox is locked. Click the link and confirm your login credentials.",phishing
+"Claim your cash reward now. Enter your bank details to release payment.",phishing
+"Unusual activity detected. Verify your account immediately using the link below.",phishing
+"Your payment failed. Update your card details on the attached form.",phishing
+"Security alert: send your verification code now to unlock your account.",phishing
+"Final warning: confirm your password or your email account will close today.",phishing
+"Your refund is ready. Enter your banking information to claim it.",phishing
+"Account suspended. Follow this link immediately to restore access.",phishing
+"Your benefits expire today. Click to confirm your identity and account password.",phishing
+"You have won a gift card. Submit payment details to claim the prize.",phishing
+"Email storage full. Verify your login credentials to avoid losing access.",phishing
+"Can we meet on Thursday to review the project notes?",legitimate
+"The study group will meet in the library at seven tonight.",legitimate
+"I attached our meeting agenda and last week's notes for review.",legitimate
+"Please bring your lab notebook to class tomorrow morning.",legitimate
+"The project deadline moved to Friday. We can review the draft together.",legitimate
+"Thanks for joining the meeting today. I will send the notes tomorrow.",legitimate
+"The cricket club practice has moved indoors because of rain.",legitimate
+"Could you review the draft slides before our project meeting?",legitimate
+"Your library books are due Friday. You can return them at the front desk.",legitimate
+"Please add your discussion topic to the agenda for next week's team meeting.",legitimate
+"The professor posted the lab schedule. Our group meets on Tuesday.",legitimate
+"I finished reviewing the project notes. Let's meet tomorrow to discuss them.",legitimate
